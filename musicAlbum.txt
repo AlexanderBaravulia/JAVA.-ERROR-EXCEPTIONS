@@ -1,0 +1,4 @@
+Melody [title = Shape of my heart, duration= 175, musicStyle POP]
+Melody [title = Californication, duration= 250, musicStyle ROCK]
+Melody [title = Angie, duration= 144, musicStyle JAZZ]
+Melody [title = Moonlight Sonata, duration= 675, musicStyle CLASSIC]
